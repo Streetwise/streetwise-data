@@ -1,0 +1,12 @@
+README.md
+setup.py
+pymapillary/__init__.py
+pymapillary/error_handling.py
+pymapillary/oauth.py
+pymapillary/pymapillary.py
+pymapillary/utils.py
+pymapillary.egg-info/PKG-INFO
+pymapillary.egg-info/SOURCES.txt
+pymapillary.egg-info/dependency_links.txt
+pymapillary.egg-info/requires.txt
+pymapillary.egg-info/top_level.txt
