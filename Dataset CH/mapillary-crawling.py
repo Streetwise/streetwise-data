@@ -102,7 +102,6 @@ start_date=datetime.datetime(2015,1,1)
 
 # Create a Mapillary Object
 load_dotenv()
-#key = "QkdGdUtyQzh4VnRkRW1hamNCdkU3UTo4MjI0NjZkMWIzZWU0OWQz"# The API key""
 key = os.getenv("MAPILLARY_KEY")
 
 map = Mapillary(key)
